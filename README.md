@@ -21,7 +21,7 @@
 | 개발 인원 | 3명 |
 | 담당 역할 | 구매·결제 백엔드, 프론트엔드, 결제 동시성 테스트 |
 | 원본 저장소 | [Gudit 2차 팀 프로젝트](https://github.com/prgrms-be-devcourse/NBE11-13-2-Team03) |
-| 후속 프로젝트 | [Gudit 3차 팀 프로젝트](https://github.com/prgrms-be-devcourse/NBE11-13-3-Team03) |
+| 후속 프로젝트 | [Gudit v2](https://github.com/dPdms21/gudit-v2) |
 
 ---
 
@@ -710,6 +710,7 @@ Windows에서는 다음 명령어를 사용한다.
 | [Gudit 2차 팀 저장소](https://github.com/prgrms-be-devcourse/NBE11-13-2-Team03) | 최초 기능 구현 및 동시성 검증 |
 | [Gudit v1](https://github.com/dPdms21/gudit-v1) | 2차 프로젝트 개인 포트폴리오 |
 | [Gudit 3차 팀 저장소](https://github.com/prgrms-be-devcourse/NBE11-13-3-Team03) | Outbox·Redis Streams 및 Kotlin 전환 |
+| [Gudit v2](https://github.com/dPdms21/gudit-v2) | 3차 프로젝트 개인 포트폴리오 |
 
 ### Author
 
